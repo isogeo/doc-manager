@@ -1,0 +1,11 @@
+{
+ "author": "Isogeo",
+ "language": "fr",
+ "title": "Isogeo Manager - Documentation utilisateur",
+ "links": {
+             "sidebar": {
+                         "Site Isogeo": "https://www.isogeo.com",
+                         "Autres documentations Isogeo": "../../"
+                         }
+             }
+ }

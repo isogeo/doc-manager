@@ -59,3 +59,23 @@ typings/
 
 # next.js build output
 .next
+
+# GitBook ######
+
+# custom
+*Thumbs.db
+
+# outputs binaries
+*.hnd
+*.pdf
+*.docx
+*.mobi
+*.epub
+
+# Book build output
+_book
+_tmp*
+dist/*
+
+# dependencies for build & serve commands
+node_modules/
