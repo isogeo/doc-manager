@@ -4,17 +4,20 @@
 
 * [Introduction](README.md)
 
-## Utilisation
+## Mots-clés
 
-* [Configurer](usage/configuration.md)
-* [Rechercher](usage/search.md)
-* [Métadonnées](usage/metadata.md)
-* [Ajouter une donnée](usage/display.md)
-* [Recherches rapides](usage/advanced/quicksearch.md)
-* [Recherche par défaut](usage/advanced/defaultsearch.md)
-* [Recherches spéciales](usage/advanced/eastereggs.md)
+* [Les mots-clés](keywords/keywords.md)
+
+## Groupes
+
+* [Liste des groupes](groups/list.md)
+* [Gérer les groupes](groups/details.md)
+
+## Applications
+
+* [Liste des applications](applications/list.md)
+* [Gérer les applications](applications/details.md)
 
 ## Annexes
 
 * [Notes des versions](appendices/versions.md)
-* [Index des images et figures](pictures.md)
