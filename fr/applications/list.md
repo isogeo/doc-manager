@@ -1,6 +1,6 @@
 # Liste des applications
 
-Cette page présente la liste de toutes les applications qui peuvent s'authentifier à l'API Isogeo.
+Cette page présente dans l'ordre alphabétique la liste de toutes les applications qui peuvent s'authentifier à l'API Isogeo.
 
 ## Types d'applications
 
