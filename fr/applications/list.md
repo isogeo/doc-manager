@@ -6,7 +6,7 @@ Cette page présente la liste de toutes les applications qui peuvent s'authentif
 
 Il existe deux types d'applications. Il est possible de filtrer sur l'un ou l'autre type en utilisant les boutons radios prévus à cet effet.
 
-!["Filtrer selon le type d'application"](/assets/page_applications_radio_button.jpg)
+!["Filtrer selon le type d'application"](/assets/page_applications_radio_button.JPG)
 
 ### Groupe
 
