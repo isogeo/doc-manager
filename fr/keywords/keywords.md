@@ -17,7 +17,7 @@ Par exemple : en tapant IGN (cf. figure ci-dessous), la liste s'adapte automatiq
 
 > NB : Il n'est pas nécéssaire de cliquer sur la touche `entrée` car la liste des mots-clés est filtrée automatiquement lorsque l'utilisateur écrit dans la barre de recherche.
 
-!["Rechercher des mots-clés"](/assets/page_keywords_research_ign.JPG)
+!["Rechercher des mots-clés"](/assets/keywords_research_ign.JPG)
 
 ## Tri
 

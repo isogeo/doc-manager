@@ -6,7 +6,7 @@ Cette page présente dans l'ordre alphabétique la liste de toutes les applicati
 
 Il existe deux types d'applications. Il est possible de filtrer sur l'un ou l'autre type en utilisant les boutons radios prévus à cet effet.
 
-!["Filtrer selon le type d'application"](/assets/page_applications_radio_button.JPG)
+!["Filtrer selon le type d'application"](/assets/applications_radio_button.JPG)
 
 ### Groupe
 
@@ -47,7 +47,7 @@ Par exemple : en tapant `plugin` (cf. figure ci-dessous), la liste s'adapte auto
 
 > NB : Il n'est pas nécéssaire de cliquer sur la touche `entrée` car la liste des mots-clés est filtrée automatiquement lorsque l'utilisateur écrit dans la barre de recherche.
 
-!["Rechercher des applications"](/assets/page_applications_research_plugin.JPG)
+!["Rechercher des applications"](/assets/applications_research_plugin.JPG)
 
 ## Pagination
 
