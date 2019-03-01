@@ -2,7 +2,7 @@
 
 Cette page présente dans l'ordre alphabétique la liste des groupes de travail de la base de données d'Isogeo.
 
-On retrouve le nom du groupe de travail et des indicateurs. Ces-derniers sont visibles en  <span style="color:#f0ad4e">orange</span> lorsque les limites sont atteintes et en <span style="color:#d9534f">rouge</span> lorsqu'elles sont dépassées.
+On retrouve le nom du groupe de travail et des indicateurs. Ces-derniers sont visibles en  <span style="color:#f0ad4e">orange</span> lorsque les limites sont atteintes et en <span style="color:#d9534f">rouge</span> lorsqu'elles sont dépassées (cf. [Ressources d'un groupe](/fr/groups/details.md#ressources)).
 
 Seules les limites de fiches et d'utilisateurs sont affichées.
 
