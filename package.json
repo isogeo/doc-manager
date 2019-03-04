@@ -2,12 +2,13 @@
     "author": "Isogeo <contact@isogeo.fr>",
     "name": "isogeo-help-app-manager",
     "version": "2019.03",
-    "private": true,
+    "private": false,
     "description": "Isogeo Manager - Documentation",
     "keywords": [
         "isogeo",
         "help",
         "manager",
+        "manage",
         "userguide",
         "documentation",
         "aide en ligne"
@@ -34,29 +35,10 @@
         "gitbook-plugin-ga": "^1.0.1",
         "gitbook-plugin-html-minifier": "^0.0.1",
         "gitbook-plugin-image-captions": "^3.1.0",
-        "gitbook-plugin-page-toc": "^1.0.2",
+        "gitbook-plugin-page-toc": "^1.1.0",
         "gitbook-plugin-sitemap-general": "^0.1.1",
         "gitbook-plugin-timeline": "^1.0.13",
         "gitbook-plugin-toggle-headers": "^0.1.0",
         "gitbook-plugin-youtube": "^1.1.0"
-    },
-    "devDependencies": {
-        "grunt": "^1.0.1",
-        "grunt-contrib-clean": "^1.1.0",
-        "grunt-contrib-copy": "^1.0.0",
-        "grunt-spawn": "^1.1.74",
-        "lerna-changelog": "^0.8.2",
-        "matchdep": "^1.0.1"
-    },
-    "changelog": {
-        "cacheDir": ".changelog",
-        "labels": {
-            "bug": ":bug: Bug Fix",
-            "cleanup": ":shower: Cleanup",
-            "content": ":memo: Documentation",
-            "enhancement": ":rocket: Enhancement",
-            "performance": ":racehorse: Performance",
-            "security": ":policeman: Security"
-        }
     }
 }
