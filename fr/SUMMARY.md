@@ -1,4 +1,4 @@
-# Summary
+# Sommaire {#summary}
 
 ## Présentation générale
 
@@ -12,12 +12,13 @@
 
 * [Liste des groupes](groups/list.md)
 * [Créer un groupe](groups/create.md)
-* [Gérer les groupes](groups/details.md)
+* [Gérer un groupe](groups/details.md)
 
 ## Applications
 
 * [Liste des applications](applications/list.md)
-* [Gérer les applications](applications/details.md)
+* [Créer une application](applications/create.md)
+* [Gérer une application](applications/details.md)
 
 ## Annexes
 

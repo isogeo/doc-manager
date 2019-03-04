@@ -1,7 +1,11 @@
-# Créer un groupe
+---
+description: Cette page décrit la création d'un groupe de travail dans la base de données Isogeo depuis l'application Isogeo Manager.
+---
 
-Pour créer un groupe, il suffit de cliquer sur `Groupe` puis `Ajouter un groupe` et renseigner son nom avant de valider. 
+# Créer un groupe {#create_group}
+
+Pour créer un groupe, il suffit de cliquer sur `Groupe` puis `Ajouter un groupe` et renseigner son nom avant de valider.
 
 Pour plus d'informations sur le paramètrage des différents blocs, veuillez consulter la [page suivante](details.md).
 
-!["Ajouter un groupe"](/assets/groups_add_group.JPG)
+!["Ajouter un groupe"](/assets/groups_add_group.png)

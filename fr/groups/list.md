@@ -1,4 +1,8 @@
-# Liste des groupes
+---
+description: Cette page décrit la liste des groupes de la base de données Isogeo dans l'application Isogeo Manager.
+---
+
+# Liste des groupes {#list_group}
 
 Cette page présente dans l'ordre alphabétique la liste des groupes de travail de la base de données d'Isogeo.
 
@@ -6,7 +10,7 @@ On retrouve le nom du groupe de travail et des indicateurs. Ces-derniers sont vi
 
 Seules les limites de fiches et d'utilisateurs sont affichées.
 
-## Rechercher un groupe
+## Rechercher un groupe {#research_group}
 
 Il est possible de filtrer sur les groupes contenant le nom recherché.
 
@@ -14,13 +18,13 @@ Par exemple : en tapant `isogeo` (cf. figure ci-dessous), la liste s'adapte auto
 
 > NB : Il n'est pas nécéssaire de cliquer sur la touche `entrée` car la liste des mots-clés est filtrée automatiquement lorsque l'utilisateur écrit dans la barre de recherche.
 
-!["Rechercher des groupes"](/assets/groups_research_isogeo.JPG)
+!["Rechercher des groupes"](/assets/groups_research_isogeo.png)
 
-## Modification d'un groupe
+## Modification d'un groupe {#modify_group}
 
 Pour modifier les paramètres d'un groupe de travail, il suffit de cliquer sur le groupe concerné dans la liste et la page de présentation du groupe s'affiche. Pour plus d'informations sur le paramètrage des différents blocs, veuillez consulter la [page suivante](details.md).
 
-## Pagination
+## Pagination {#pagination_group}
 
 Pour naviguer facilement dans la liste, un système de pagination permet de naviguer page par page en cliquant sur les simples flèches ou les numéros de page. Les doubles-flèches permettent elles d'accèder directement à la première ou la dernière page.
 

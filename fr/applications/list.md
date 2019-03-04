@@ -1,14 +1,18 @@
-# Liste des applications
+---
+description: Cette page décrit la liste des applications de la base de données Isogeo dans l'application Isogeo Manager.
+---
+
+# Liste des applications {#list_application}
 
 Cette page présente dans l'ordre alphabétique la liste de toutes les applications qui peuvent s'authentifier à l'API Isogeo.
 
-## Types d'applications
+## Types d'applications {#type_application}
 
 Il existe deux types d'applications. Il est possible de filtrer sur l'un ou l'autre type en utilisant les boutons radios prévus à cet effet.
 
-!["Filtrer selon le type d'application"](/assets/applications_radio_button.JPG)
+!["Filtrer selon le type d'application"](/assets/applications_radio_button.png)
 
-### Groupe
+### Groupe {#group_type}
 
 Les applications de type groupe peuvent être associées à un ou plusieurs groupes de travail. En effet, c'est le groupe de travail qui s'authentifie à l'application qui est elle-même authentifiée à l'API via ses clés.
 
@@ -26,7 +30,7 @@ Les principales applications de type groupe existantes à Isogeo sont les suivan
 
 NB : Pour les partenaires ou les clients qui developpent autour de l'API en lecture, des applications de type groupe sont également crées afin de leur générer des clés d'authentification.
 
-### Utilisateur
+### Utilisateur {#user_type}
 
 Les applications de type utilisateur ne peuvent pas être associées à des groupes de travail. En effet, c'est l'utilisateur qui s'authentifie directement à l'application qui est elle-même authentifiée à l'API via ses clés.
 
@@ -39,7 +43,7 @@ Les principales applications de type utilisateurs existantes à Isogeo sont les 
 
 Isogeo Manager est donc une application de type utilisateur, c'est pour cette raison qu'il faut [s'authentifier](/fr/readme.md) avec son nom d'utilisateur et son mot de passe Isogeo.
 
-## Rechercher une application
+## Rechercher une application {#research_application}
 
 Il est possible de filtrer sur les applications contenant le nom recherché.
 
@@ -47,13 +51,13 @@ Par exemple : en tapant `plugin` (cf. figure ci-dessous), la liste s'adapte auto
 
 > NB : Il n'est pas nécéssaire de cliquer sur la touche `entrée` car la liste des mots-clés est filtrée automatiquement lorsque l'utilisateur écrit dans la barre de recherche.
 
-!["Rechercher des applications"](/assets/applications_research_plugin.JPG)
+!["Rechercher des applications"](/assets/applications_research_plugin.png)
 
-## Modification d'une application
+## Modification d'une application {#modify_application}
 
 Pour modifier les paramètres d'une application, il suffit de cliquer sur le groupe concerné dans la liste et la page de présentation du groupe s'affiche. Pour plus d'informations sur le paramètrage des différents blocs, veuillez consulter la [page suivante](details.md).
 
-## Pagination
+## Pagination {#pagination_application}
 
 Pour naviguer facilement dans la liste, un système de pagination permet de naviguer page par page en cliquant sur les simples flèches ou les numéros de page. Les doubles-flèches permettent elles d'accèder directement à la première ou la dernière page.
 

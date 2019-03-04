@@ -1,4 +1,4 @@
-# Isogeo Manager
+# Isogeo Manager {#homepage}
 
 Isogeo Manager appelée aussi "Manage" est une application interne qui permet d'effectuer des opérations dans la base de donnée d'Isogeo via l'API.
 
@@ -10,9 +10,9 @@ Le manager permet de gérer principalement :
 
 Seuls les utilisateurs de type *Staff* ont accès à l'application. Ils doivent s'authentifier via la fenêtre d'authentification ci-dessous.
 
-!["Fenêtre d'authentification"](/assets/authentication.JPG)
+!["Fenêtre d'authentification"](/assets/authentication.png)
 
-## Global
+## Global {#global}
 
 Vision :
 
@@ -22,7 +22,7 @@ Vision :
 
 *Isogeo.Manager* n’est pas un CRM et ne sert entre autres pas à gérer l’expiration commerciale ou le renouvellement des options achetées (ou non) par les clients d’Isogeo.
 
-## Déploiement
+## Déploiement {#deployments}
 
 En mode *SaaS*, l'application est déployée sur des Web App Azure :
 
@@ -33,3 +33,9 @@ En mode *on-premises*, l'application peut être déployée :
 
 * sur un serveur avec NodeJS installé
 * via Docker
+
+## Version {#versions}
+
+La version de l'application est indiquée en bas à droite de la page ou à l'adresse https://manage.isogeo.com/about.
+
+!["Version de l'application"](assets/manager_version.png)
