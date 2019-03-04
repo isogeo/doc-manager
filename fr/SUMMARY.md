@@ -11,6 +11,7 @@
 ## Groupes
 
 * [Liste des groupes](groups/list.md)
+* [Créer un groupe](groups/create.md)
 * [Gérer les groupes](groups/details.md)
 
 ## Applications
