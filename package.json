@@ -4,6 +4,7 @@
     "version": "2019.03",
     "private": false,
     "description": "Isogeo Manager - Documentation",
+    "license": "CC-BY-NC-SA-4.0",
     "keywords": [
         "isogeo",
         "help",
@@ -17,9 +18,6 @@
         "type": "git",
         "url": "https://github.com/isogeo/doc-manager"
     },
-    "contributors": [
-        "Julien Moura <julien.moura@isogeo.fr>"
-    ],
     "scripts": {
         "build": "gitbook build",
         "dev": "gitbook serve"
