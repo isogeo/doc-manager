@@ -14,6 +14,8 @@
             "token": "UA-22345848-2"
         },
         "html-minifier": {
+            "decodeEntities": true,
+            "html5": true,
             "removeEmptyElements": false
         },
         "image-captions": {
