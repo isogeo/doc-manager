@@ -13,6 +13,9 @@
         "ga": {
             "token": "UA-22345848-2"
         },
+        "html-minifier": {
+            "removeEmptyElements": false
+        },
         "image-captions": {
             "variable_name": "pictures",
             "caption": "Fig. _BOOK_IMAGE_NUMBER_ : _CAPTION_",
