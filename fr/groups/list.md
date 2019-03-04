@@ -16,8 +16,12 @@ Par exemple : en tapant `isogeo` (cf. figure ci-dessous), la liste s'adapte auto
 
 !["Rechercher des groupes"](/assets/groups_research_isogeo.JPG)
 
+## Modification d'un groupe
+
+Pour modifier les paramètres d'un groupe de travail, il suffit de cliquer sur le groupe concerné dans la liste et la page de présentation du groupe s'affiche. Pour plus d'informations sur le paramètrage des différents blocs, veuillez consulter la [page suivante](details.md).
+
 ## Pagination
 
-Pour naviguer facilement dans la liste, un système de pagination permet de naviguer page par page en cliquant sur les simples flèches ou les numéros de page. Les doubles-flèches permettent elles d'accèder directement à la premiere ou la dernière page.
+Pour naviguer facilement dans la liste, un système de pagination permet de naviguer page par page en cliquant sur les simples flèches ou les numéros de page. Les doubles-flèches permettent elles d'accèder directement à la première ou la dernière page.
 
 > NB : Lors d'une recherche ou d'un tri, le système de pagination s'adapte automatiquement en fonction de la liste.
