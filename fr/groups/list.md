@@ -22,7 +22,7 @@ Par exemple : en tapant `isogeo` (cf. figure ci-dessous), la liste s'adapte auto
 
 ## Modification d'un groupe {#modify_group}
 
-Pour modifier les paramètres d'un groupe de travail, il suffit de cliquer sur le groupe concerné dans la liste et la page de présentation du groupe s'affiche. Pour plus d'informations sur le paramètrage des différents blocs, veuillez consulter la [page suivante](details.md).
+Pour modifier les paramètres d'un groupe de travail, il suffit de cliquer sur le groupe concerné dans la liste et la page de présentation du groupe s'affiche. Pour plus d'informations sur le paramètrage des différents blocs, veuillez consulter la [page *Gérer un groupe*](details.md).
 
 ## Pagination {#pagination_group}
 

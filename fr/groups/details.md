@@ -148,13 +148,40 @@ Ensuite, il suffit de rechercher l'application souhaitée avec son nom parmi la 
 
 ## Paramètres {#group_parameters}
 
+Quelques paramètres peuvent encore être réglés depuis la page de gestion d'un groupe.
+
+!["réglages des paramètres d'un groupe depuis Manager"](/assets/groups_parameters.png)
+
+Ces paramètres sont également réglables depuis l'[administration](https://app.isogeo.com/groups/628a29a84c354713a9ae14989e0fdd68/admin/settings) d'APP.
+
+!["Réglages des paramètres d'un groupe depuis APP](/assets/app_parameters.png)
+
 ### Référencer le groupe dans les contacts
+
+Le point de contact du groupe de travail correspond aux [coordonnées](#group_coordinates) renseignées précèdemment.
+
+Ces contacts sont centralisés dans la base de données d'Isogeo et peuvent être visibles par les autres groupes de travail si cette option est cochée.
+
+Cette visibilité se traduit par la possibilité d'ajouter le point de contact d'un autre groupe de travail dans ses fiches de métadonnées.  
+
+Exemple : Dans la figure ci-dessous, j'ai ajouté Demo Manager en contact d'une fiche du groupe de travail Isogeo Tests.
+
+!["Réglages des paramètres depuis APP](/assets/app_association_contact_group.png)
 
 ### Autoriser la créeation de fiche manuelles
 
-### Autoriser la création manuelle de liens vers des services cartographiques 
+Lorsque cette case est cochée, l'utilisateur de type administrateur ou éditeur peut donc créer des fiches manuelles. Le bouton `Créer` apparait alors dans l'inventaire du groupe de travail sur APP. Sinon, le bouton n'apparait pas.
+
+!["Création d'une fiche manuelle depuis APP](/assets/app_creation_md_manually.png)
+
+### Autoriser la création manuelle de liens vers des services cartographiques
+
+Cette option est dépréciée, laissez la décochée.
 
 ### Langue des métadonnées
 
+La langue d’une métadonnée doit être spécifiée dans l’onglet `Métadonnée` d’une fiche de métadonnées.
 
-!["Paramètres d'un groupe"](/assets/groups_parameters.png)
+Pour que celle-ci soit renseignée automatiquement sur chaque nouvelle fiche de métadonnées créée, il suffit de choisir la langue parmi celles proposées.
+
+> Il y a actuellement un [bug](https://github.com/isogeo/isogeo-app/issues/28) sur cette fonctionnalité.
