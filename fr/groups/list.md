@@ -1,12 +1,12 @@
 ---
-description: Cette page décrit la liste des groupes de la base de données Isogeo dans l'application Isogeo Manager.
+description: Liste des groupes de la base de données Isogeo dans l'application Isogeo Manager.
 ---
 
 # Liste des groupes {#list_group}
 
 Cette page présente dans l'ordre alphabétique la liste des groupes de travail de la base de données d'Isogeo.
 
-On retrouve le nom du groupe de travail et des indicateurs. Ces-derniers sont visibles en  <span style="color:#f0ad4e">orange</span> lorsque les limites sont atteintes et en <span style="color:#d9534f">rouge</span> lorsqu'elles sont dépassées (cf. [Ressources d'un groupe](/fr/groups/details.md#ressources)).
+On retrouve le nom du groupe de travail et des indicateurs. Ces-derniers sont visibles en  <span style="color:#f0ad4e">orange</span> lorsque les limites sont atteintes et en <span style="color:#d9534f">rouge</span> lorsqu'elles sont dépassées (cf. [Ressources d'un groupe](details.md#ressources)).
 
 Seules les limites de fiches et d'utilisateurs sont affichées.
 
@@ -22,7 +22,7 @@ Par exemple : en tapant `isogeo` (cf. figure ci-dessous), la liste s'adapte auto
 
 ## Modification d'un groupe {#modify_group}
 
-Pour modifier les paramètres d'un groupe de travail, il suffit de cliquer sur le groupe concerné dans la liste et la page de présentation du groupe s'affiche. Pour plus d'informations sur le paramètrage des différents blocs, veuillez consulter la [page *Gérer un groupe*](details.md).
+Pour modifier les paramètres d'un groupe de travail, il suffit de cliquer sur le groupe concerné dans la liste et la page de présentation du groupe s'affiche. Pour plus d'informations sur le paramètrage des différents blocs, veuillez consulter la page [*Gérer un groupe*](details.md).
 
 ## Pagination {#pagination_group}
 

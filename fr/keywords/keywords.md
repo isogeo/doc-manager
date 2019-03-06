@@ -1,5 +1,5 @@
 ---
-description: Cette page décrit la gestion des mots-clés de la base de données Isogeo dans l'application Isogeo Manager.
+description: Gestion des mots-clés de la base de données Isogeo dans l'application Isogeo Manager.
 ---
 
 # Les mots-clés {#keywords}

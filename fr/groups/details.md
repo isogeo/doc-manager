@@ -1,5 +1,5 @@
 ---
-description: Cette page décrit la gestion des groupes de travail de la base de données Isogeo dans l'application Isogeo Manager.
+description: Gestion des groupes de travail de la base de données Isogeo dans l'application Isogeo Manager.
 ---
 
 # Gérer un groupe {#manage_group}
@@ -156,7 +156,7 @@ Ces paramètres sont également réglables depuis l'[administration](https://app
 
 !["Réglages des paramètres d'un groupe depuis APP](/assets/app_parameters.png)
 
-### Référencer le groupe dans les contacts
+### Référencer le groupe dans les contacts {#allow_contact_group}
 
 Le point de contact du groupe de travail correspond aux [coordonnées](#group_coordinates) renseignées précèdemment.
 
@@ -168,17 +168,17 @@ Exemple : Dans la figure ci-dessous, j'ai ajouté Demo Manager en contact d'une 
 
 !["Réglages des paramètres depuis APP](/assets/app_association_contact_group.png)
 
-### Autoriser la créeation de fiche manuelles
+### Autoriser la création de fiche manuelles {#allow_fiche_manually}
 
 Lorsque cette case est cochée, l'utilisateur de type administrateur ou éditeur peut donc créer des fiches manuelles. Le bouton `Créer` apparait alors dans l'inventaire du groupe de travail sur APP. Sinon, le bouton n'apparait pas.
 
 !["Création d'une fiche manuelle depuis APP](/assets/app_creation_md_manually.png)
 
-### Autoriser la création manuelle de liens vers des services cartographiques
+### Autoriser la création manuelle de liens vers des services cartographiques (dépréciée)
 
 Cette option est dépréciée, laissez la décochée.
 
-### Langue des métadonnées
+### Langue des métadonnées {#group_md_language}
 
 La langue d’une métadonnée doit être spécifiée dans l’onglet `Métadonnée` d’une fiche de métadonnées.
 

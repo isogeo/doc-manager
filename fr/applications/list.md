@@ -1,5 +1,5 @@
 ---
-description: Cette page décrit la liste des applications de la base de données Isogeo dans l'application Isogeo Manager.
+description: Lister les applications de la base de données Isogeo dans l'application Isogeo Manager.
 ---
 
 # Liste des applications {#list_application}
@@ -42,6 +42,8 @@ Les principales applications de type utilisateurs existantes à Isogeo sont les 
 * Python SDK
 
 Isogeo Manager est donc une application de type utilisateur, c'est pour cette raison qu'il faut [s'authentifier](/fr/readme.md) avec son nom d'utilisateur et son mot de passe Isogeo.
+
+> Pour plus d'informations sur les types d'application, veuillez consulter l'aide en ligne de [API](http://help.isogeo.com/api/fr/authentication/concepts.html).
 
 ## Rechercher une application {#research_application}
 

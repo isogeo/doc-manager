@@ -1,5 +1,5 @@
 ---
-description: Cette page décrit la création d'un groupe de travail dans la base de données Isogeo depuis l'application Isogeo Manager.
+description: Création d'un groupe de travail dans la base de données Isogeo depuis l'application Isogeo Manager.
 ---
 
 # Créer un groupe {#create_group}
