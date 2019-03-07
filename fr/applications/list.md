@@ -28,7 +28,7 @@ Les principales applications de type groupe existantes à Isogeo sont les suivan
 * Plugin ArcMap
 * Widget WebAppBuilder
 
-NB : Pour les partenaires ou les clients qui developpent autour de l'API en lecture, des applications de type groupe sont également crées afin de leur générer des clés d'authentification.
+> NB : Pour les partenaires ou les clients qui développent autour de l'API en lecture, des applications de type groupe sont également crées afin de leur générer des clés d'authentification.
 
 ### Utilisateur {#user_type}
 
@@ -41,7 +41,7 @@ Les principales applications de type utilisateurs existantes à Isogeo sont les 
 * Isogeo Scan FME
 * Python SDK
 
-Isogeo Manager est donc une application de type utilisateur, c'est pour cette raison qu'il faut [s'authentifier](/fr/readme.md) avec son nom d'utilisateur et son mot de passe Isogeo.
+Isogeo Manager est donc une application de type utilisateur, c'est pour cette raison qu'il faut [s'authentifier](/fr/README.md) avec son nom d'utilisateur et son mot de passe Isogeo.
 
 > Pour plus d'informations sur les types d'application, veuillez consulter l'aide en ligne de [API](http://help.isogeo.com/api/fr/authentication/concepts.html).
 
@@ -57,7 +57,7 @@ Par exemple : en tapant `plugin` (cf. figure ci-dessous), la liste s'adapte auto
 
 ## Modification d'une application {#modify_application}
 
-Pour modifier les paramètres d'une application, il suffit de cliquer sur le groupe concerné dans la liste et la page de présentation du groupe s'affiche. Pour plus d'informations sur le paramètrage des différents blocs, veuillez consulter la [page suivante](details.md).
+Pour modifier les paramètres d'une application, il suffit de cliquer sur l'application concernée dans la liste et la page de présentation de l'application s'affiche. Pour plus d'informations sur le paramètrage des différents blocs, veuillez consulter la [page suivante](details.md).
 
 ## Pagination {#pagination_application}
 

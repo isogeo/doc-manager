@@ -14,7 +14,7 @@ Seuls les utilisateurs de type *Staff* ont accès à l'application. Ils doivent 
 
 ## Global {#global}
 
-Vision :
+Vision du Manager :
 
 * **Pour** les gestionnaires de comptes Isogeo (équipe projet, équipe commerciale)
 * **Qui** veulent administrer les groupes de travail et les utilisateurs de la plateforme Isogeo

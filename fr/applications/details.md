@@ -4,7 +4,7 @@ description: Gestion des mots-clés de la base de données Isogeo dans l'applica
 
 # Gérer une application {#manage_application}
 
-Une application est un logiciel qui exploite l'API Isogeo. Il peut s'agir d'une application web (ex : APP), d'un logiciel bureautique (ex : Isogeo2office), d'un plugin (ex : plugin QGIS) ou simplement d'un script que l'on veut authentifié à l'API. En effet, c'est ici que l'on récupère les clés d'accès à l'API.
+Une application est un logiciel qui exploite l'API Isogeo. Il peut s'agir d'une application web (ex : APP), d'un logiciel bureautique (ex : Isogeo2office), d'un plugin (ex : plugin QGIS) ou simplement d'un script que l'on veut authentifier à l'API. En effet, c'est **ici que l'on récupère les clés d'accès à l'API**.
 
 Pour plus d'informations sur les applications et l'API, veuillez consulter la page [précédente](list.md) et l'aide en ligne de l'[API](http://help.isogeo.com/api/fr/authentication/concepts.html).
 
@@ -18,6 +18,12 @@ Dans l'en-tête, on retrouve plusieurs éléments.
 
 Le nom est modifiable dans le bloc [Détails](#application_names).
 
+### Editer l'application (uniquement pour les applications de type utilisateur) {#edit_application}
+
+Pour éditer les paramètres d'une application de type utilisateur, il faut cliquer sur l'icône <i class="fa fa-edit"></i> puis entrer le mot `EDIT` et valider.
+
+Les applications utilisateurs comme *APP* ou le *scan FME* sont **sensibles**. Seul un développeur de ces applications est en capacité d'en modifier leurs paramètres.
+
 ### Supprimer l'application {#delete_application}
 
 Pour supprimer l'application, il suffit de cliquer sur la poubelle <i class="fa fa-trash"></i> puis d'écrire en toute lettre `DELETE` et enfin supprimer.
@@ -26,7 +32,7 @@ Pour supprimer l'application, il suffit de cliquer sur la poubelle <i class="fa 
 
 ### Dates {#application_dates}
 
-* La date de création correspond comme son nom l'indique à la date de création du application.
+* La date de création correspond comme son nom l'indique à la date de création de l'application.
 
 * La date de modification correspond à la date de dernière modification de l'un des paramètres de l'application. Soit tous ceux que nous allons découvrir dans la suite de cette documentation.
 
@@ -107,7 +113,7 @@ Attention, comme l'indique le message de confirmation ci-dessous que doit valide
 
 !["Re-générer l’identifiant et le secret"](/assets/applications_authentication_regenerate.png)
 
-Cette fonctionnalités permet d'avoir la main sur les développements autour de l'API. On peut choisir de révoquer à tout moment l'accès à l'API à un developpeur en re-générant ses clés.
+Cette fonctionnalité permet d'avoir la main sur les développements autour de l'API. On peut choisir de révoquer à tout moment l'accès à l'API à un developpeur en re-générant ses clés.
 
 ## Groupes associés (uniquement pour les applications de type groupe) {#group_associated}
 
@@ -125,9 +131,9 @@ Pour associer un groupe,  il suffit de cliquer sur le bouton `Associer`, puis re
 
 !["Associer un groupe"](/assets/applications_associate_group.png)
 
-Le groupe apparait ensuite dans la liste des groupes associés. En cliquant sur `Voir le groupe`, le navigateur ouvre la page du groupe concernés sur le Manager.
+Le groupe apparait ensuite dans la liste des groupes associés. En cliquant sur `Voir le groupe`, le navigateur ouvre la page du groupe concerné sur le Manager.
 
-Il est également possible de supprimer l'association au groupe via la poubelle.
+Il est également possible de supprimer l'association au groupe via la poubelle <i class="fa fa-trash"></i>.
 
 > Attention, si un utilisateur essaye d'associer un deuxième groupe à l'application et que la [case](#application_options) `Peut être associée à plusieurs groupes` n'est pas cochée, le message ci-dessous s'affiche.
 
@@ -135,8 +141,9 @@ Il est également possible de supprimer l'association au groupe via la poubelle.
 
 ## URLs de redirection (uniquement pour les applications de type utilisateur)
 
-* TO DOC
+* Voir l'aide en ligne de l'[API](http://help.isogeo.com/api/fr/authentication/usersapps/userappuris.html)
 
 ## Type de sécurité (uniquement pour les applications de type utilisateur)
 
-* TO DOC
+* Confidentielle : Une application confidentielle est capable de maintenir la confidentialité de ses identifiants. Une application web par exemple.
+* Publique : Une application publique est incapable de maintenir la confidentialité de ses identifiants. Une application de navigateur (en JavaScript typiquement) par exemple.

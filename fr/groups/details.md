@@ -86,11 +86,11 @@ En activant le module, le groupe de travail aura la possibilité de partager des
 
 Si le module est désactivé 
 
-* TO DO 
+* En attente de la correction du [[bug](https://github.com/isogeo/isogeo-manager/issues/21) sur cette fonctionnalité.
  
 ### Diffusion {#diffusion}
 
-Ce module n'existe plus, laisser la case décochée.
+Ce module n'existe plus, laissez la case décochée.
 
 ## Ressources {#ressources}
 
@@ -100,9 +100,9 @@ Dans ce bloc, le fonctionnement est similaire à celui des modules. Il s'agit de
 
 ### Couleurs de la jauge {#gauge_color}
 
-* <span style="color:#5cb85c">Vert : les limites ne sont pas atteintes</span>
-* <span style="color:#f0ad4e">Orange : les limites sont atteintes</span>
-* <span style="color:#d9534f">Rouge : les limites sont dépassées</span>
+* <span style="color:#5cb85c">Vert : les limites ne sont pas atteintes.</span>
+* <span style="color:#f0ad4e">Orange : les limites sont atteintes.</span>
+* <span style="color:#d9534f">Rouge : les limites sont dépassées.</span>
 
 Rastafari !
 
@@ -130,43 +130,43 @@ Cette liste est également visible depuis la [page d'administration](https://app
 
 Il est possible d'inviter des utilisateurs dans le groupe de travail en cliquant sur le bouton `Inviter`. Ensuite, une fenêtre s'ouvre dans laquelle il faut renseigner l'adresse mail et le rôle souhaité puis valider.
 
-L'invitation est valide pendant 7 jours. L'invité doit donc accepter l'invitation dans ses mails dans ce délais sous peine de recevoir un message d'erreur. Le temps restant avant l'expiration est indiqué dans l'invitation.
+L'invitation est valide pendant 7 jours. L'invité doit donc accepter l'invitation dans ses mails dans ce délais sous peine de recevoir un message d'erreur. Le temps restant avant l'expiration est indiqué dans l'invitation (cf. figure ci-dessous).
 
-Pour supprimer une invitation, la poubelle est prévue à cet effet. L'utilisateur recevra quand même le mail mais il ne pourra pas accéder au groupe de travail.
+Pour supprimer une invitation, la poubelle <i class="fa fa-trash"></i> est prévue à cet effet. L'utilisateur recevra quand même le mail mais il ne pourra pas accéder au groupe de travail.
 
 !["Les utilisateurs d'un groupe et les invitations ](/assets/groups_users.png)
 
 ## Applications {#group_associate_applications}
 
-Il est possible d'associer des applications au groupe mais il faut au préalable [créer l'application](/fr/applications/details.md) dans le Manager.
+Il est possible d'associer des applications au groupe mais il faut au préalable [créer l'application](/fr/applications/create.md) dans le Manager.
 
 Ensuite, il suffit de rechercher l'application souhaitée avec son nom parmi la liste des applications recensées.
 
-!["Associer une application à un groupe"](/assets/groups_associate_application.png)
-
 > NB : Cette fonctionnalité ne fonctionne pas actuellement. Le bug est déclaré sur [Github](https://github.com/isogeo/isogeo-manager/issues/9).
+
+!["Associer une application à un groupe"](/assets/groups_associate_application.png)
 
 ## Paramètres {#group_parameters}
 
 Quelques paramètres peuvent encore être réglés depuis la page de gestion d'un groupe.
 
-!["réglages des paramètres d'un groupe depuis Manager"](/assets/groups_parameters.png)
+!["Réglages des paramètres d'un groupe depuis Manager"](/assets/groups_parameters.png)
 
 Ces paramètres sont également réglables depuis l'[administration](https://app.isogeo.com/groups/628a29a84c354713a9ae14989e0fdd68/admin/settings) d'APP.
 
-!["Réglages des paramètres d'un groupe depuis APP](/assets/app_parameters.png)
+!["Réglages des paramètres d'un groupe depuis APP"](/assets/app_parameters.png)
 
 ### Référencer le groupe dans les contacts {#allow_contact_group}
 
 Le point de contact du groupe de travail correspond aux [coordonnées](#group_coordinates) renseignées précèdemment.
 
-Ces contacts sont centralisés dans la base de données d'Isogeo et peuvent être visibles par les autres groupes de travail si cette option est cochée.
+Ces contacts sont centralisés dans la base de données d'Isogeo et peuvent être visibles par les autres groupes de travail **si cette option est cochée**.
 
 Cette visibilité se traduit par la possibilité d'ajouter le point de contact d'un autre groupe de travail dans ses fiches de métadonnées.  
 
 Exemple : Dans la figure ci-dessous, j'ai ajouté Demo Manager en contact d'une fiche du groupe de travail Isogeo Tests.
 
-!["Réglages des paramètres depuis APP](/assets/app_association_contact_group.png)
+!["Réglages des paramètres depuis APP"](/assets/app_association_contact_group.png)
 
 ### Autoriser la création de fiche manuelles {#allow_fiche_manually}
 

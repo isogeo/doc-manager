@@ -18,7 +18,7 @@ Par exemple : en tapant `isogeo` (cf. figure ci-dessous), la liste s'adapte auto
 
 > NB : Il n'est pas nécéssaire de cliquer sur la touche `entrée` car la liste des mots-clés est filtrée automatiquement lorsque l'utilisateur écrit dans la barre de recherche.
 
-!["Rechercher des groupes"](/assets/groups_research_isogeo.png)
+!["Rechercher un groupe"](/assets/groups_research_isogeo.png)
 
 ## Modification d'un groupe {#modify_group}
 

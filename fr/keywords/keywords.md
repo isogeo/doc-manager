@@ -37,7 +37,7 @@ En cliquant sur `Nom`, les mots-clés se trient par ordre alphanumérique descen
 
 ### Pagination {#pagination_keywords}
 
-Pour naviguer facilement dans la liste, un système de pagination permet de naviguer page par page en cliquant sur les simples flèches ou les numéros de page. Les doubles-flèches permettent elles d'accèder directement à la premiere ou la dernière page.
+Pour naviguer facilement dans la liste, un système de pagination permet de naviguer page par page en cliquant sur les simples flèches ou les numéros de page. Les doubles-flèches permettent elles d'accèder directement à la première ou la dernière page.
 
 > NB : Lors d'une recherche ou d'un tri, le système de pagination s'adapte automatiquement en fonction de la liste.
 
