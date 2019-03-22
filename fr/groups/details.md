@@ -84,9 +84,7 @@ En activant le module, le groupe de travail aura la possibilité de partager des
 
 !["Partage activé dans APP"](/assets/groups_activate_partage_app.png)
 
-Si le module est désactivé 
-
-* En attente de la correction du [bug](https://github.com/isogeo/isogeo-manager/issues/21) sur cette fonctionnalité.
+Si le module est désactivé, la création d'un partage vers un autre groupe de travail ne sera pas possible.
  
 ### Diffusion {#diffusion}
 
@@ -140,8 +138,6 @@ Il est possible d'associer des applications au groupe mais il faut au préalable
 
 Ensuite, il suffit de rechercher l'application souhaitée avec son nom parmi la liste des applications recensées.
 
-> NB : Cette fonctionnalité ne fonctionne pas actuellement. Le bug est déclaré sur [Github](https://github.com/isogeo/isogeo-manager/issues/9).
-
 !["Associer une application à un groupe"](/assets/groups_associate_application.png)
 
 ## Paramètres {#group_parameters}
@@ -181,5 +177,3 @@ Cette option est dépréciée, laissez la décochée.
 La langue d’une métadonnée doit être spécifiée dans l’onglet `Métadonnée` d’une fiche de métadonnées.
 
 Pour que celle-ci soit renseignée automatiquement sur chaque nouvelle fiche de métadonnées créée, il suffit de choisir la langue parmi celles proposées.
-
-> Il y a actuellement un [bug](https://github.com/isogeo/isogeo-app/issues/28) sur cette fonctionnalité.
