@@ -86,7 +86,7 @@ En activant le module, le groupe de travail aura la possibilité de partager des
 
 Si le module est désactivé 
 
-* En attente de la correction du [[bug](https://github.com/isogeo/isogeo-manager/issues/21) sur cette fonctionnalité.
+* En attente de la correction du [bug](https://github.com/isogeo/isogeo-manager/issues/21) sur cette fonctionnalité.
  
 ### Diffusion {#diffusion}
 
@@ -103,8 +103,6 @@ Dans ce bloc, le fonctionnement est similaire à celui des modules. Il s'agit de
 * <span style="color:#5cb85c">Vert : les limites ne sont pas atteintes.</span>
 * <span style="color:#f0ad4e">Orange : les limites sont atteintes.</span>
 * <span style="color:#d9534f">Rouge : les limites sont dépassées.</span>
-
-Rastafari !
 
 ### Ressources illimités {#unlimited}
 

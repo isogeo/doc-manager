@@ -32,6 +32,6 @@ En mode *on-premises*, l'application peut être déployée :
 
 ## Version {#versions}
 
-La version de l'application est indiquée en bas à droite de la page ou à l'adresse https://manage.isogeo.com/about.
+La version de l'application est indiquée l'adresse https://manage.isogeo.com/about ou en bas à droite de la page.
 
 !["Version de l'application"](assets/manager_version.png)
