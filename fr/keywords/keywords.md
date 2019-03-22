@@ -43,7 +43,7 @@ Pour naviguer facilement dans la liste, un système de pagination permet de navi
 
 ## Supprimer un mot-clé {#delete_keywords}
 
-Cette page du Manager Isogeo a été créée pour visualiser de manière ergonomique le référentiel de mots-clés d'Isogeo mais aussi pour permettre d'effectuer un nettoyage de la base.
+Cette page de l'application Manager a été créée pour visualiser de manière ergonomique le référentiel de mots-clés d'Isogeo mais aussi pour permettre d'effectuer un nettoyage de la base.
 
 En effet, il n'y a pas de contrôle au moment de l'ajout d'un mot-clé par un utilisateur, c'est pourquoi, de nombreux mots-clés ayant des fautes de frappes ou inutilisés "polluent" le référentiel. Les différentes fonctionnalités définies précédemment et cette dernière encouragent à nettoyer de temps en temps cette liste.
 

@@ -1,5 +1,5 @@
 ---
-description: Gestion des mots-clés de la base de données Isogeo dans l'application Isogeo Manager.
+description: Gestion des applications de la base de données Isogeo dans l'application Isogeo Manager.
 ---
 
 # Gérer une application {#manage_application}

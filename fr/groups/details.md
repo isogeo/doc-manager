@@ -4,7 +4,7 @@ description: Gestion des groupes de travail de la base de données Isogeo dans l
 
 # Gérer un groupe {#manage_group}
 
-Le groupe de travail est au coeur du modèle d'Isogeo. Il correspondant à un entrepôt de fiche de métadonnées et possède ses propres paramètres d'administration. Le Manager permet de gérer ses autorisations.
+Le groupe de travail est au coeur du modèle d'Isogeo. Il correspondant à un entrepôt de fiche de métadonnées et possède ses propres paramètres d'administration. L'application Manager permet de gérer ses autorisations.
 
 Plusieurs blocs permettent de gérer le groupe.
 
@@ -50,7 +50,7 @@ Pour supprimer le groupe, il suffit de cliquer sur la poubelle <i class="fa fa-t
 
 Le bloc `Coordonnées` permet de renseigner des informations sur le groupe de travail. Ces informations peuvent être également modifiées par un administrateur du groupe de travail sur APP (cf. [Aide en ligne Admin](http://help.isogeo.com/admin/fr/settings/dashboard.html#le-point-de-contact-du-groupe-de-travail)).
 
-!["Renseigner les coordonnées du groupe depuis Manager"](/assets/groups_coordinates.png)
+!["Renseigner les coordonnées du groupe depuis l'application Manager"](/assets/groups_coordinates.png)
 
 !["Renseigner les coordonnées du groupe depuis APP"](/assets/app_groups_coordinates.png)
 
@@ -122,7 +122,7 @@ Cependant, hormis cette fenêtre polluante à quitter à chaque fois, ils pourro
 
 Ce bloc liste tous les utilisateurs du groupe de travail avec leur rôle.
 
-Le membre du staff Isogeo qui crée le groupe dans Manager est **automatiquement** ajouté aux utilisateurs du groupe de travail.
+Le membre du staff Isogeo qui crée le groupe dans l'application Manager est **automatiquement** ajouté aux utilisateurs du groupe de travail.
 
 Cette liste est également visible depuis la [page d'administration](https://app.isogeo.com/groups/628a29a84c354713a9ae14989e0fdd68/admin/users/memberships) du groupe de travail dans APP.
 
@@ -138,7 +138,7 @@ Pour supprimer une invitation, la poubelle <i class="fa fa-trash"></i> est prév
 
 ## Applications {#group_associate_applications}
 
-Il est possible d'associer des applications au groupe mais il faut au préalable [créer l'application](/fr/applications/create.md) dans le Manager.
+Il est possible d'associer des applications au groupe mais il faut au préalable [créer l'application](/fr/applications/create.md) dans l'application Manager.
 
 Ensuite, il suffit de rechercher l'application souhaitée avec son nom parmi la liste des applications recensées.
 
@@ -150,7 +150,7 @@ Ensuite, il suffit de rechercher l'application souhaitée avec son nom parmi la 
 
 Quelques paramètres peuvent encore être réglés depuis la page de gestion d'un groupe.
 
-!["Réglages des paramètres d'un groupe depuis Manager"](/assets/groups_parameters.png)
+!["Réglages des paramètres d'un groupe depuis l'application Manager"](/assets/groups_parameters.png)
 
 Ces paramètres sont également réglables depuis l'[administration](https://app.isogeo.com/groups/628a29a84c354713a9ae14989e0fdd68/admin/settings) d'APP.
 

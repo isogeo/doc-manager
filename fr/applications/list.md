@@ -12,7 +12,7 @@ Il existe deux types d'applications. Il est possible de filtrer sur l'un ou l'au
 
 !["Filtrer selon le type d'application"](/assets/applications_radio_button.png)
 
-### Groupe {#group_type}
+### Applications de groupe {#group_type}
 
 Les applications de type groupe peuvent être associées à un ou plusieurs groupes de travail. En effet, c'est le groupe de travail qui s'authentifie à l'application qui est elle-même authentifiée à l'API via ses clés.
 
@@ -30,7 +30,7 @@ Les principales applications de type groupe existantes à Isogeo sont les suivan
 
 > NB : Pour les partenaires ou les clients qui développent autour de l'API en lecture, des applications de type groupe sont également crées afin de leur générer des clés d'authentification.
 
-### Utilisateur {#user_type}
+### Applications utilisateur {#user_type}
 
 Les applications de type utilisateur ne peuvent pas être associées à des groupes de travail. En effet, c'est l'utilisateur qui s'authentifie directement à l'application qui est elle-même authentifiée à l'API via ses clés.
 
@@ -41,9 +41,9 @@ Les principales applications de type utilisateurs existantes à Isogeo sont les 
 * Isogeo Scan FME
 * Python SDK
 
-Isogeo Manager est donc une application de type utilisateur, c'est pour cette raison qu'il faut [s'authentifier](/fr/README.md) avec son nom d'utilisateur et son mot de passe Isogeo.
+L'application Manager est donc une application de type utilisateur, c'est pour cette raison qu'il faut s'authentifier avec son nom d'utilisateur et son mot de passe Isogeo.
 
-> Pour plus d'informations sur les types d'application, veuillez consulter l'aide en ligne de [API](http://help.isogeo.com/api/fr/authentication/concepts.html).
+> Pour plus d'informations sur les types d'application, veuillez consulter l'aide en ligne de l'[API](http://help.isogeo.com/api/fr/authentication/concepts.html).
 
 ## Rechercher une application {#research_application}
 
