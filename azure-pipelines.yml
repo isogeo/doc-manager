@@ -53,7 +53,7 @@ jobs:
       SourceFolder: '$(System.DefaultWorkingDirectory)/dist'
       Contents: |
         .gitignore
-        /.vscode/
+        .vscode*
         azure-pipelines.yml
         package.json
         yarn.lock
