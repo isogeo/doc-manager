@@ -6,7 +6,7 @@ description: Gestion des applications de la base de données Isogeo dans l'appli
 
 Une application est un logiciel qui exploite l'API Isogeo. Il peut s'agir d'une application web (ex : APP), d'un logiciel bureautique (ex : Isogeo2office), d'un plugin (ex : plugin QGIS) ou simplement d'un script que l'on veut authentifier à l'API. En effet, c'est **ici que l'on récupère les clés d'accès à l'API**.
 
-Pour plus d'informations sur les applications et l'API, veuillez consulter la page [précédente](list.md) et l'aide en ligne de l'[API](http://help.isogeo.com/api/fr/authentication/concepts.html).
+Pour plus d'informations sur les applications et l'API, veuillez consulter la page [précédente](list.md) et l'aide en ligne de l'[API](https://help.isogeo.com/api/fr/authentication/concepts.html).
 
 ## En-tête {#heading_application}
 
@@ -141,7 +141,7 @@ Il est également possible de supprimer l'association au groupe via la poubelle 
 
 ## URLs de redirection (uniquement pour les applications de type utilisateur)
 
-* Voir l'aide en ligne de l'[API](http://help.isogeo.com/api/fr/authentication/usersapps/userappuris.html)
+* Voir l'aide en ligne de l'[API](https://help.isogeo.com/api/fr/authentication/usersapps/userappuris.html)
 
 ## Type de sécurité (uniquement pour les applications de type utilisateur)
 

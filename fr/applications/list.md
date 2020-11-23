@@ -43,7 +43,7 @@ Les principales applications de type utilisateurs existantes à Isogeo sont les 
 
 L'application Manager est donc une application de type utilisateur, c'est pour cette raison qu'il faut s'authentifier avec son nom d'utilisateur et son mot de passe Isogeo.
 
-> Pour plus d'informations sur les types d'application, veuillez consulter l'aide en ligne de l'[API](http://help.isogeo.com/api/fr/authentication/concepts.html).
+> Pour plus d'informations sur les types d'application, veuillez consulter l'aide en ligne de l'[API](https://help.isogeo.com/api/fr/authentication/concepts.html).
 
 ## Rechercher une application {#research_application}
 

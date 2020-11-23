@@ -9,7 +9,7 @@ Cette page présente **tous** les mots-clés enregistrés dans la base de donné
 Soit :
 
 * Tous les administrateurs ;
-* Tous les éditeurs, si la liste des mots-clés n'est pas restreinte dans l'administration de leur groupe de travail (cf. [Aide en ligne](http://help.isogeo.com/admin/fr/features/admin/keywords.html)).
+* Tous les éditeurs, si la liste des mots-clés n'est pas restreinte dans l'administration de leur groupe de travail (cf. [Aide en ligne](https://help.isogeo.com/admin/fr/features/admin/keywords.html)).
 
 On retrouve ainsi la même liste de mots-clés dans [l'interface d'administration](https://app.isogeo.com/admin/keywords) de chaque groupe de travail.
 

@@ -48,7 +48,7 @@ Pour supprimer le groupe, il suffit de cliquer sur la poubelle <i class="fa fa-t
 
 ## Coordonnées {#group_coordinates}
 
-Le bloc `Coordonnées` permet de renseigner des informations sur le groupe de travail. Ces informations peuvent être également modifiées par un administrateur du groupe de travail sur APP (cf. [Aide en ligne Admin](http://help.isogeo.com/admin/fr/settings/dashboard.html#le-point-de-contact-du-groupe-de-travail)).
+Le bloc `Coordonnées` permet de renseigner des informations sur le groupe de travail. Ces informations peuvent être également modifiées par un administrateur du groupe de travail sur APP (cf. [Aide en ligne Admin](https://help.isogeo.com/admin/fr/settings/dashboard.html#le-point-de-contact-du-groupe-de-travail)).
 
 !["Renseigner les coordonnées du groupe depuis l'application Manager"](/assets/groups_coordinates.png)
 
