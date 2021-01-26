@@ -25,11 +25,6 @@ En mode *SaaS*, l'application est déployée sur des Web App Azure :
 * QA : <https://qa-isogeo-manage.azurewebsites.net/>
 * PROD : <https://manage.isogeo.com/>
 
-En mode *on-premises*, l'application peut être déployée :
-
-* sur un serveur avec NodeJS installé
-* via Docker
-
 ## Version {#versions}
 
 La version de l'application est indiquée à l'adresse <https://manage.isogeo.com/about> ou en bas à droite de la page.
